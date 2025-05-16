@@ -3,19 +3,19 @@
 Welcome to interview task at Briefcase 👋
 
 Prerequisites to run this repo
-1. node
-2. npm package manager
+
+1. dotnet
 
 To install this repo run
 
 ```bash
-npm i
+dotnet restore
 ```
 
 To run the task do
 
 ```bash
-npm run task
+dotnet run
 ```
 
 ### Task 1: extract essential information from invoice or receipt using openai API
